@@ -1,5 +1,5 @@
 //
-//  BWViewController.h
+//  BWTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Benjamin West on 6/6/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BWViewController : UIViewController
+@interface BWTableViewController : UITableViewController
 
 @end
